@@ -30,7 +30,7 @@ My Contributions
 - Added animations for the spells, and the characters' animations casting the spells.
 
 
-Collaboration
+Collaboration: 
 This project was developed with three other students as part of a week-long EA Orlando summer program. We collaborated on the design and development of the game, with each team member contributing to different aspects of the project.
 
 
