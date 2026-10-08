@@ -35,7 +35,8 @@ This project was developed with three other students as part of a week-long EA O
 
 
 Media
-
+<img width="959" height="539" alt="Screenshot 2026-10-07 205131" src="https://github.com/user-attachments/assets/ae1c1259-2457-4b3d-8cde-9f9198e5d9a2" />
+<img width="959" height="539" alt="Screenshot 2026-10-07 205600" src="https://github.com/user-attachments/assets/82d8eb28-7d4f-4668-a503-9065aab54721" />
 
 
 Acknowledgment: 
